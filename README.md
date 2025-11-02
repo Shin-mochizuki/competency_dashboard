@@ -44,3 +44,4 @@ git worktree add ../dashboard-exp    exp/new-visuals
 - macOS 最新ランナーで `ruff`, `black --check`, `mypy`, `pytest` を実行
 
 2025-11-02T03:49:38.724949
+
