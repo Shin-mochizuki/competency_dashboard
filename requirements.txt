@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=1.26
+streamlit>=1.37
+plotly>=5.22
+pydantic>=2.8
+pytest>=8.0
+coverage>=7.6
+black>=24.8
+ruff>=0.6
+mypy>=1.11
+types-requests
